@@ -16,3 +16,5 @@ A comprehensive healthcare IoT project developed as part of the RISE Internship.
 
 ## 🔗 Live Circuit Simulation
 - Try the interactive virtual circuit here: https://wokwi.com/projects/467508590302174209
+## 📊 Cloud IoT Dashboard
+- View the live real-time patient health monitoring graphs here: https://thingspeak.mathworks.com/channels/3413678
